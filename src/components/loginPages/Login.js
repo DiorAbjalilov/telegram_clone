@@ -16,7 +16,7 @@ const Login = () => {
         </nav>
         <header className="content">
           <div className="top_text">
-            <h4>Your Phone Number</h4>
+            <h4>sen Phone Number</h4>
             <p>fsd sdfsd dsfsdfsd hhyt ghghfgh thrthtr gdthsf fhhfgdn efgds</p>
           </div>
           <div className="center_input">
